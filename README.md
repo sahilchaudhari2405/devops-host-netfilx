@@ -126,7 +126,7 @@
     sudo systemctl enable jenkins
     ```
     
-    - Access Jenkins in a web browser using the public IP of your EC2 instance.
+    - Access Jenkins in a web browser using the public IP of your  instance.
         
         publicIp:8080
         
